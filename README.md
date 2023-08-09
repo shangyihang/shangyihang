@@ -4,8 +4,8 @@
 
 > 宁可失败于原则，也不愿成功于违背 
 
-无论遭遇何种困境，都要保持积极乐观的心态  
-因为内心的态度才是决定命运的关键。
+> 无论遭遇何种困境，都要保持积极乐观的心态  
+> 因为内心的态度才是决定命运的关键。
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?&logo=Vue.js&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?&logo=TypeScript&logoColor=ffffff)
